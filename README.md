@@ -1,4 +1,7 @@
 ### Hello👋, I'm JangHo Kim.
+🧑🏻‍💻 Position.      **Front-End Developer**<br>
+📞 TEL.           010-2108-4146<br>
+✉ E-MAIL.    djanghoo@naver.com
 
 <!--
 **KJH0406/KJH0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
