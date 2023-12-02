@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kim Jang Ho
 
 <!--
 **KJH0406/KJH0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
