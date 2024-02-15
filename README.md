@@ -1,5 +1,5 @@
 ### Hello👋, I'm JangHo Kim.
-🧑🏻‍💻 Position.      **Front-End Developer**<br>
+🧑🏻‍💻 Position.      Front-End Developer, PM<br>
 📞 TEL.           010-2108-4146<br>
 ✉ E-MAIL.    rlawkdgh0406@naver.com
 <br>
