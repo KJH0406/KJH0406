@@ -21,9 +21,9 @@
 <br />
 
 ## 💻 Experiences
-- **NCSoft, DevInfra** *2024.05 ~ Present*
-    - **Project Manager Assistant**
-        - *Collaborative Software Development Management Support*
+- **NCSoft, DevInfra(Strategic Planning)** *2024.05 ~ Present*
+    - **Service Design**
+        - *Collaborative Software Development & Management Support*
         - continue…
 
 - **SSAFY (Samsung Software Academy For Youth)** *2023.01 ~ 2023.12*
