@@ -4,13 +4,13 @@
 [GitHub](https://github.com/KJH0406) • [LinkedIn](https://www.linkedin.com/in/kimjangho/)
 
 > Hello👋, My name Jangho Kim. <br />
-> You can see my resume [here](https://mindsketch.vercel.app/resume).
+> You can see my resume [here](https://mindsketch365.com/resume).
 
 <br />
 
 ## 📞 Contact
 - Email: dkel06@gmail.com
-- Blog: [mindsketch](https://mindsketch.vercel.app)
+- Blog: [mindsketch](https://mindsketch365.com)
 
 <br />
 
