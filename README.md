@@ -10,7 +10,7 @@
 
 ## 📞 Contact
 - Email: dkel06@gmail.com
-- Blog: [mindsketch](https://mindsketch365.com)
+- Blog: [brunch story](https://brunch.co.kr/@janghok)
 
 <br />
 
@@ -21,9 +21,9 @@
 <br />
 
 ## 💻 Experiences
-- **NCSoft, DevInfra(Strategic Planning)** *2024.05 ~ Present*
-    - **Service Design**
-        - *Collaborative Software Development & Management Support*
+- **NCSOFT, DevInfra** *2024.05 ~ Present*
+    - **Service Design & Project Management**
+        - *Developing Project Management Tools for Game Development*
         - continue…
 
 - **SSAFY (Samsung Software Academy For Youth)** *2023.01 ~ 2023.12*
